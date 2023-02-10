@@ -5,13 +5,13 @@ body {
   }
   
   header {
-    background-color: lightblue;
+    background-color: #3604fc;
     padding: 20px;
     text-align: center;
   }
   
   nav {
-    background-color: gray;
+    background-color: #03bbf9;
     display: flex;
     justify-content: center;
   }
@@ -24,7 +24,7 @@ body {
   }
   
   nav a {
-    color: white;
+    color: #f80606;
     text-decoration: none;
     padding: 20px;
   }
@@ -37,7 +37,7 @@ body {
   }
   
   section {
-    background-color: lightgray;
+    background-color: #0bfd37;
     padding: 20px;
     width: 30%;
     text-align: center;
@@ -45,8 +45,8 @@ body {
   }
   
   footer {
-    background-color: gray;
-    color: white;
+    background-color: #f70000;
+    color: #f80404;
     display: flex;
     justify-content: center;
     padding: 20px;
@@ -60,13 +60,13 @@ body {
     padding: 10px;
     margin: 10px 0;
     box-sizing: border-box;
-    border: 1px solid gray;
+    border: 1px solid #f40707;
   }
   
   input[type="submit"] {
     padding: 10px 20px;
-    background-color: lightblue;
-    color: white;
+    background-color: #04c0ff;
+    color: #0992fb;
     border: none;
     cursor: pointer;
   }
